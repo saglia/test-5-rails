@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  license_code: MyString
+  email: MyString
+
+two:
+  license_code: MyString
+  email: MyString
